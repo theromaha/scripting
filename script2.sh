@@ -28,7 +28,6 @@ echo "Interface: $interface" >> test2.txt
 ip=$(curl ifconfig.me)
 echo "IP: $ip" >> test2.txt
 
-#Firewall configuration
 
 
 
