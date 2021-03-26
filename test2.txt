@@ -1,7 +1,0 @@
-User: roman
-Machine name: UD-VirtualBox
-OS: GNU/Linux
-Architecture: x86_64
-Description: Ubuntu 18.04.5 LTS
-Interface: enp0s3 lo
-IP: 178.212.111.36
