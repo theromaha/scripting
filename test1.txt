@@ -1,3 +1,0 @@
-In your laptop you have a Python 2.7.17 version and a Python 3.6.9 version.
-Python3 is installed on your device and I reccomend using it.
-That's because it's more provising to use in 2021. 
